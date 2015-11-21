@@ -84,7 +84,7 @@ h4 {
 }
 
 .little {
-	margin-top:10px;
+	margin-top:30px;
 	font-weight: bold;
 	font-size: 0.9em;
 	color: gray;
@@ -97,6 +97,36 @@ h4 {
 .my-text {
 	color: :gray;
 	text-align: justify;
+}
+
+.limpia{
+	clear:both;
+}
+
+.foot{
+	padding-left:75px;
+	clear:both;
+	background: #3B3B3B;
+	margin-top: 400px;
+	color:white;
+}
+
+.foot-h3{
+	font-size:1em;
+	padding-top: 30px;
+}
+
+.foot-text {
+	color:gray;
+	padding-top: 20px;
+}
+.foot-text-border {
+	border-bottom: 1px dotted gray;
+}
+
+.foot-a{
+	text-decoration: none;
+	color:gray;
 }
 
 
